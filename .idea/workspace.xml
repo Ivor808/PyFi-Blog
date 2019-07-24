@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efe2ae4c-b2c2-4507-835d-6e0375110d67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pyfi_project/blog/templates/blog/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyfi_project/blog/templates/blog/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/pyfi_project/blog/templates/blog/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyfi_project/blog/templates/blog/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/pyfi_project/blog/templates/blog/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyfi_project/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/pyfi_project/blog/templates/blog/base.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pyfi_project/blog/templates/blog/about.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
@@ -51,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pyfi_project/blog/templates/blog/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+            <state relative-caret-position="324">
+              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -121,9 +118,9 @@
         <option value="$PROJECT_DIR$/pyfi_project/pyfi_project/urls.py" />
         <option value="$PROJECT_DIR$/pyfi_project/pyfi_project/settings.py" />
         <option value="$PROJECT_DIR$/pyfi_project/blog/views.py" />
-        <option value="$PROJECT_DIR$/pyfi_project/blog/templates/blog/base.html" />
         <option value="$PROJECT_DIR$/pyfi_project/blog/templates/blog/home.html" />
         <option value="$PROJECT_DIR$/pyfi_project/blog/templates/blog/about.html" />
+        <option value="$PROJECT_DIR$/pyfi_project/blog/templates/blog/base.html" />
       </list>
     </option>
   </component>
@@ -284,13 +281,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pyfi_project/blog/templates/blog/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pyfi_project/blog/templates/blog/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -302,6 +292,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyfi_project/blog/templates/blog/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
         </state>
       </provider>
     </entry>
